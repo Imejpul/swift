@@ -16,7 +16,7 @@ El [manual completo de Swift](https://developer.apple.com/library/content/docume
 
 ## Swift en Linux
 
-En [esta carpeta](http://nunki.diocesanas.org/mv/swift/) (la URL sólo es accesible desde clase) está disponible una máquina virtual con Ubuntu 16.04 y la [versión open source de Swift](https://swift.org/download/) instalada.
+[Máquina virtual](https://drive.google.com/file/d/0B2XpZkAtl698Z1VvNDZUazZzRms/view?usp=sharing) con Ubuntu 16.04 y la [versión open source de Swift](https://swift.org/download/) instalada.
 
 Para compilar un programa basta con ejecutar en un terminal:
 
