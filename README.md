@@ -10,4 +10,16 @@ Este repositorio contiene:
 - Los [ejemplos](./02_ejemplos/), en formato Playground.
 - Los [ejercicios](./03_ejercicios/) para practicar.
 
-El [manual completo de Swift](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309) está disponible en Apple Developer.
+## Referencia de Swift
+
+El [manual completo de Swift](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309) está disponible en [Apple Developer](https://developer.apple.com/swift/).
+
+## Swift en Linux
+
+En [esta carpeta](http://nunki.diocesanas.org/mv/swift/) (la URL sólo es accesible desde clase) está disponible una máquina virtual con Ubuntu 16.04 y la [versión open source de Swift](https://swift.org/download/) instalada.
+
+Para compilar un programa basta con ejecutar en un terminal:
+
+```bash
+$ swift prueba.swift
+```
