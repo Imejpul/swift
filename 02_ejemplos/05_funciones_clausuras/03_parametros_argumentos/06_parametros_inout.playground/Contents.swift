@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 func swapTwoInts(_ a: inout Int, _ b: inout Int) {
     let temporaryA = a
     a = b

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 protocol SomeProtocol {
     var mustBeSettable: Int { get set }
     var doesNotNeedToBeSettable: Int { get }

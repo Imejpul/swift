@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let integerToDescribe = 5
 
 var description = "The number \(integerToDescribe) is"

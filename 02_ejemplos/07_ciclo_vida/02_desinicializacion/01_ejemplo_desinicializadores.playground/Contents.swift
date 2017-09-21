@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 class Bank {
     static var coinsInBank = 10_000
     static func distribute(coins numberOfCoinsRequested: Int) -> Int {

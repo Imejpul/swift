@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 struct LevelTracker {
     static var highestUnlockedLevel = 1
     var currentLevel = 1

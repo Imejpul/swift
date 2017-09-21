@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 extension Double {
     var km: Double { return self * 1_000.0 }
     var m: Double { return self }

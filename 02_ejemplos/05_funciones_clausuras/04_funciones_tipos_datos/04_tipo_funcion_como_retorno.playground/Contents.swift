@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 func stepForward(_ input: Int) -> Int {
     return input + 1
 }

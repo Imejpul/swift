@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 extension Int {
     enum Kind {
         case negative, zero, positive

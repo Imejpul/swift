@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 struct Color {
     let red, green, blue: Double
     init(red: Double, green: Double, blue: Double) {

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 var temperatureInFahrenheit = 30
 
 if temperatureInFahrenheit <= 32 {

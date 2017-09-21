@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 var favoriteGenres: Set<String> = ["Rock", "Classical", "Hip hop"]
 
 for genre in favoriteGenres {

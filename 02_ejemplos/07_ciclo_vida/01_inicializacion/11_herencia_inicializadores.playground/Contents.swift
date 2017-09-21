@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 class Vehicle {
     var numberOfWheels = 0
     var description: String {

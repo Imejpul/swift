@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let possibleNumber = "123"
 
 if let actualNumber = Int(possibleNumber) {

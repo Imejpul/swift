@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 extension Int {
     mutating func square() {
         self = self * self

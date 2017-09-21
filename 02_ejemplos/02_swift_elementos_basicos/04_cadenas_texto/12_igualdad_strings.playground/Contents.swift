@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let quotation = "We're a lot alike, you and I."
 let sameQuotation = "We're a lot alike, you and I."
 

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 enum ASCIIControlCharacter: Character {
     case tab = "\t"
     case lineFeed = "\n"

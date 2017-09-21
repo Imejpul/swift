@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let maximumNumberOfLoginAttempts = 10  // Constante
 var currentLoginAttempt = 0  // Variable
 

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 struct Celsius {
     var temperatureInCelsius: Double
     init(fromFahrenheit fahrenheit: Double) {

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let anotherPoint = (2, 0)
 
 switch anotherPoint {

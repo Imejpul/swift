@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 class Country {
     let name: String
     var capitalCity: City!

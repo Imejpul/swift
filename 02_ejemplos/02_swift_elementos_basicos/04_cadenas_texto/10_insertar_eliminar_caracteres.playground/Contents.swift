@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 var welcome = "hello"
 welcome.insert("!", at: welcome.endIndex)
 // welcome now equals "hello!"

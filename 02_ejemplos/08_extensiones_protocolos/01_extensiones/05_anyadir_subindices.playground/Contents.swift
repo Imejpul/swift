@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 extension Int {
     subscript(digitIndex: Int) -> Int {
         var decimalBase = 1

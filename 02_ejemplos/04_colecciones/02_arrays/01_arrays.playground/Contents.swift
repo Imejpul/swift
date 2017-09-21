@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 var otherInts = Array<Int>()
 
 var someInts = [Int]()  // Sintaxis preferida

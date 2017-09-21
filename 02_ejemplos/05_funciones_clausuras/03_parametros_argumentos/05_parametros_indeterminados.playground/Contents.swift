@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 func arithmeticMean(_ numbers: Double...) -> Double {
     var total: Double = 0
     for number in numbers {

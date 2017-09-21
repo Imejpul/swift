@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 struct Point {
     var x = 0.0, y = 0.0
     func isToTheRightOf(x: Double) -> Bool {

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let romeoAndJuliet = [
     "Act 1 Scene 1: Verona, A public place",
     "Act 1 Scene 2: Capulet's mansion",

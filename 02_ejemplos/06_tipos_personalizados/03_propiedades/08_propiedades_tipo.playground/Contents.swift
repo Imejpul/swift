@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 struct SomeStructure {
     static var storedTypeProperty = "Some value."
     static var computedTypeProperty: Int {

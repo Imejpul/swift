@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let wiseWords = "\"Imagination is more important than knowledge\" - Einstein"
 // "Imagination is more important than knowledge" - Einstein
 

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let quotation = """
 The White Rabbit put on his spectacles.  "Where shall I begin,
 please your Majesty?" he asked.

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 var shoppingList: [String] = ["Eggs", "Milk"]
 
 var firstItem = shoppingList[0]

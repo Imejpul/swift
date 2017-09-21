@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let http404Error = (404, "Not Found")
 
 let (statusCode, statusMessage) = http404Error

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 protocol RandomNumberGenerator {
     func random() -> Double
 }

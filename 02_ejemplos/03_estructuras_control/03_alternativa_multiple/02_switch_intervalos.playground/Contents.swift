@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let approximateCount = 62
 let countedThings = "moons orbiting Saturn"
 var naturalCount: String

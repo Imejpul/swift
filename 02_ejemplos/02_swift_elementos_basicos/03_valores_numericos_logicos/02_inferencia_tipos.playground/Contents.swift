@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 let meaningOfLife = 42
 
 let pi = 3.14159

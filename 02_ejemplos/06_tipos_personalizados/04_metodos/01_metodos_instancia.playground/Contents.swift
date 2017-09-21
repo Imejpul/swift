@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 class Counter {
     var count = 0
     func increment() {

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 struct Size {
     var width = 0.0, height = 0.0
 }

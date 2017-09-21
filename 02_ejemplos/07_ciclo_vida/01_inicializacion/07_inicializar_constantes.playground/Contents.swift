@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 class SurveyQuestion {
     let text: String // modificable durante la inicialización
     var response: String?

@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 class StepCounter {
     var totalSteps: Int = 0 {
         willSet(newTotalSteps) {
