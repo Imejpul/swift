@@ -15,6 +15,7 @@ Este repositorio contiene:
 
 - El [manual completo de Swift](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309) está disponible en [Apple Developer](https://developer.apple.com/swift/).
 - La [biblioteca de referencia](https://developer.apple.com/documentation) con la documentación de los diferentes frameworks de desarrollo disponibles.
+- Web del [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club), un repositorio con implementaciones de algoritmos y estructuras de datos habituales.
 
 ## Xcode y GitHub
 
