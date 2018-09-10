@@ -19,13 +19,3 @@ Este es un repositorio con recursos para aprender Swift que contiene:
 
 - Los ejercicios se resolverán usando [Xcode](https://developer.apple.com/xcode/), creando un Playground para cada ejercicio.
 - Siguiendo las normas para el trabajo individual con Git de Egibide, cada uno trabajará en su propio _fork_ personal de este repositorio y subirá sus soluciones a GitHub.
-
-## Swift en Linux
-
-[Máquina virtual](https://drive.google.com/file/d/0B2XpZkAtl698Z1VvNDZUazZzRms/view?usp=sharing) con Ubuntu 16.04 y la [versión open source de Swift 4.0](https://swift.org/download/) instalada.
-
-Para compilar un programa basta con ejecutar en un terminal:
-
-```bash
-$ swift prueba.swift
-```
