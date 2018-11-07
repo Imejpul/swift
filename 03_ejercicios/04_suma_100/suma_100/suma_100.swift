@@ -7,4 +7,4 @@ for indice in 1...100 {
 	suma += indice
 }
 
-print "El resultado es: \(suma)"
+print ("El resultado es: \(suma)")

@@ -1,13 +1,13 @@
 import Foundation
 
 let numero:Int 
-numero = 12
+numero = 13
 
 if (numero % 2) == 0 {
 
-	print "El número \(número) es par"
+	print ("El número \(numero) es par")
 
 } else {
 
-	print "El numero  \(número) es impar"
+	print ("El numero  \(numero) es impar")
 }
